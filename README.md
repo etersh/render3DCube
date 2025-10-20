@@ -4,6 +4,10 @@
 This project shows a simple rotating 3D cube made with **OpenTK** in C#.  
 It was made to practice basic 3D graphics ideas like vertices, shaders, projection/view matrices, and transformations.
 
+<img width="1908" height="1564" alt="CleanShot 2025-10-19 at 23 28 02@2x" src="https://github.com/user-attachments/assets/78a6f365-e813-44f6-b015-03767e87acfe" />
+<img width="1908" height="1564" alt="CleanShot 2025-10-19 at 23 28 05@2x" src="https://github.com/user-attachments/assets/9e98c1fa-ef21-493c-8e5a-17efbebca10a" />
+
+
 ---
 
 ## Library Used
